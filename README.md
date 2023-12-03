@@ -18,7 +18,7 @@ I created this script for fun, so it has zero to none error handling. Hope it is
 * Probably need Excel installed, not sure if it works with alternative solutions like OpenOffice.
 
 ### Installing
-* You need to edit emojis.py and change TOKENHERE to the token of your Slack workspace.
+* You need to edit emojis.py and change TOKENHERE toyour Slack app token.
 	* You could also modify the script to use a presaved emoji.json, which are accessible to non-admins as well (according to Google.)
 * Make sure you have downloaded the following modules: requests, xlsxwriter, Pillow, DateTime
 
@@ -27,7 +27,10 @@ I created this script for fun, so it has zero to none error handling. Hope it is
 	* For me, I created a separate directory on my desktop for this, just for clarity!
 * From where you saved emojis.py, run CMD or navigate CMD to the save location
 * Start the program with command: python emojis.py
-* Choose whether you want to 1) Save all custom emojis as images, with emoji names as filenames. 2) Save all emoji names and images to excel. 3) Exit :)
+* Choose whether you want to
+	* 1) Save all custom emojis as images, with emoji names as filenames.
+	* 2) Save all emoji names and images to excel.
+	* 3) Exit :)
 
 ## Help
 It is likely you get an error, as there is no error handling. Sorry about that!
