@@ -39,11 +39,12 @@ It is likely you get an error, as there is no error handling. Sorry about that!
 * If you get an error while saving emojis to Excel, it is likely a temporary directory was created but not deleted. Temporary directories are always named tempemojis and created to same directory where emojis.py is, so make sure to delete it manually before trying again.
 
 ## Authors
-Me! Please don't contact me though.
+Katri Keränen
+I hope you do not contact me though.
 
 ## Version history
 * 0.1
 	* Initial release.
 	
 ## License
-This project is licensed under the terms of the MIT license - see the LICENSE.md file for details.
+This project is licensed under the terms of the MIT license - see the LICENSE file for details.
