@@ -2,7 +2,7 @@
 A simple script written to help going through lots of custom emojis in Slack workspaces.
 
 ## Description
-My friends and I share a Slack workspace, that is about 5 years old. Before that, for about 15 years, we have been migrating through different messaging platforms and collecting custom emojis as we go.
+My friends and I share a Slack workspace, that is about 7 years old. Before that, for about 15 years, we have been migrating through different messaging platforms and collecting custom emojis as we go.
 Old emojis have been transferred from old platforms to new ones and that resulted us having about 500 custom emojis, of which some haven't been used in years, some have doubles, some could use better names..
 I created this simple script to automatically create and Excel file of all the custom emojis so we could go through them efficiently.
 Hope this is of use to you!
