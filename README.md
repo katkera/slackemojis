@@ -35,14 +35,13 @@ I created this script for fun, so it has zero to none error handling. Hope it is
 ## Help
 It is likely you get an error, as there is no error handling. Sorry about that!
 
-*Make sure your Slack app token has emoji.read permissions. See Slack API site for more info!
-*If you get an error while saving emojis to Excel, it is likely a temporary directory was created but not deleted. Temporary directories are always named tempemojis and created to same directory where emojis.py is, so make sure to delete it manually before trying again.
+* Make sure your Slack app token has emoji.read permissions. See Slack API site for more info!
+* If you get an error while saving emojis to Excel, it is likely a temporary directory was created but not deleted. Temporary directories are always named tempemojis and created to same directory where emojis.py is, so make sure to delete it manually before trying again.
 
 ## Authors
 Me! Please don't contact me though.
 
 ## Version history
-
 * 0.1
 	* Initial release.
 	
