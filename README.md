@@ -22,7 +22,7 @@ I created this script for fun, so it has zero to none error handling. Hope it is
 	* You could also modify the script to use a presaved emoji.json, which are accessible to non-admins as well (according to Google.)
 * Make sure you have downloaded the following modules: requests, xlsxwriter, Pillow, DateTime
 
-## Executing program
+### Executing program
 * Save emojis.py to a location of your choice.
 	* For me, I created a separate directory on my desktop for this, just for clarity!
 * From where you saved emojis.py, run CMD or navigate CMD to the save location
